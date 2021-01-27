@@ -1,0 +1,32 @@
+body {
+  background-image: linear-gradient(to top right , #FC6238,#CFF800,#FFD872,#FFEB3B);
+  text-align: center;
+}
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+  font-family:fantasy;
+    
+}
+#Main {
+  border-radius: 1px;
+  height: 220px;
+  width: 370px;
+}
+img {
+  height: 170px;
+  width: 160px;
+}
+hr {
+  height: 6px;
+  background-color: black;
+  width: 500px;
+
+
+}
+p1 {
+  text-align:left;
+}
